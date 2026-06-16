@@ -29,3 +29,14 @@ A real-time Electric Vehicle Dashboard and Advanced Driver Assistance System (AD
 
 ## Author
 Abhiram Kadarla
+
+
+
+## Current Progress
+
+### Day 4 - Ultrasonic Distance Detection
+
+- HC-SR04 ultrasonic sensor interfacing
+- Distance measurement using timer capture
+- UART distance transmission
+- PICSimLab simulation validation
