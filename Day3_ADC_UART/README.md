@@ -1,9 +1,31 @@
-# Day 3 - ADC & UART Simulation
+# EV Dashboard & ADAS Warning System
 
-STM32F103C8T6 based ADC monitoring and UART communication project.
+## Overview
+A real-time Electric Vehicle Dashboard and Advanced Driver Assistance System (ADAS) built using STM32F103C8T6.
 
-## Features
-- Multi-channel ADC
+## Current Progress
+### Day 3 - ADC & UART
+- Multi-channel ADC configuration
+- Sensor value acquisition
 - UART transmission
-- Real-time EV parameter monitoring
-- PICSimLab simulation
+
+## Planned Features
+- Ultrasonic Distance Detection
+- Battery SOC Monitoring
+- Motor Temperature Monitoring
+- EV Dashboard
+- ADAS Warning System
+
+## Hardware
+- STM32F103C8T6 (Blue Pill)
+- HC-SR04 Ultrasonic Sensor
+- LCD Display
+
+## Software
+- STM32CubeIDE
+- STM32 HAL
+- GitHub
+- PICSimLab
+
+## Author
+Abhiram Kadarla
