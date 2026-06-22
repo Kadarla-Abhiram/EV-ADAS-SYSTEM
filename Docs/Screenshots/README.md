@@ -33,6 +33,17 @@ PINOUT VIEW --
 <img width="1920" height="1080" alt="Screenshot (1000)" src="https://github.com/user-attachments/assets/0385b4d5-6136-4bac-a116-2b7374074870" />
 
 
+## Day 6 - Understanding Timers and Basic Blinking LED with timers and interrupt 
+
+- Timer 1 used
+- PINOUT VIEW
+- <img width="1920" height="1080" alt="Screenshot (1013)" src="https://github.com/user-attachments/assets/2aead54e-10cf-4658-8a69-bd5577019515" />
+
+OUTPUT IN PICSIMLAB
+<img width="1920" height="1080" alt="Screenshot (1012)" src="https://github.com/user-attachments/assets/4e589652-7bad-436d-b492-3e5416858516" />
+
+
+
 
 
 
