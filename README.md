@@ -42,7 +42,6 @@ Abhiram Kadarla
 - PICSimLab simulation validation
 
 
-## Current Progress
 
 
 ### Day 5 - Ultrasonic Distance Detection
@@ -50,4 +49,13 @@ Abhiram Kadarla
 - HC-SR04 ultrasonic sensor interfacing
 - Distance measurement using timer capture for left , right and front
 - UART distance transmission
+- PICSimLab simulation validation
+
+
+## Current Progress 
+
+### Day 6 - UNDERSTANDING TIMERS AND BLINKING LED WITH TIMERS AND INTERRUPTS 
+
+- TIMER  1 is used
+- Respective Prescaling and ARR is calculated for required delay
 - PICSimLab simulation validation
