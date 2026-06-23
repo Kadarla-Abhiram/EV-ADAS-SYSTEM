@@ -52,10 +52,17 @@ Abhiram Kadarla
 - PICSimLab simulation validation
 
 
-## Current Progress 
 
 ### Day 6 - UNDERSTANDING TIMERS AND BLINKING LED WITH TIMERS AND INTERRUPTS 
 
 - TIMER  1 is used
 - Respective Prescaling and ARR is calculated for required delay
 - PICSimLab simulation validation
+
+
+## Current Progress 
+
+### Day 7 - EV DASH parameters 
+
+- ev dashboard required parameters are calculated
+- speed ,torque ,range ,soc 
