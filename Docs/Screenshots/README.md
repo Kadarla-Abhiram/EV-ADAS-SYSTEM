@@ -43,6 +43,20 @@ OUTPUT IN PICSIMLAB
 <img width="1920" height="1080" alt="Screenshot (1012)" src="https://github.com/user-attachments/assets/4e589652-7bad-436d-b492-3e5416858516" />
 
 
+## Day 7 - EV DASH parameters in virtual terminal 
+
+- speed ,torque ,range etc are calculated using sensor values(POTs)
+
+PINOUT VIEW--
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/87caf44f-4d14-428a-84d6-179116f577c0" />
+
+PICSIM Lab validation --
+
+<img width="1920" height="1080" alt="Screenshot (1020)" src="https://github.com/user-attachments/assets/113def15-f773-4b03-8739-791678ccb8e7" />
+
+
+
 
 
 
