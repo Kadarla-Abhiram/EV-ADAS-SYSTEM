@@ -55,6 +55,11 @@ PICSIM Lab validation --
 
 <img width="1920" height="1080" alt="Screenshot (1020)" src="https://github.com/user-attachments/assets/113def15-f773-4b03-8739-791678ccb8e7" />
 
+##  Day 8 - Implementing 3 ultarsonic sensors with timers 
+
+<img width="1920" height="1080" alt="Screenshot (1031)" src="https://github.com/user-attachments/assets/46f5de98-dba4-46e3-9739-06e6a248edf4" />
+
+
 
 
 
