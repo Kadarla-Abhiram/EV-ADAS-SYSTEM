@@ -60,9 +60,18 @@ Abhiram Kadarla
 - PICSimLab simulation validation
 
 
-## Current Progress 
 
 ### Day 7 - EV DASH parameters 
 
 - ev dashboard required parameters are calculated
 - speed ,torque ,range ,soc 
+
+
+## Current Progress 
+
+### Day 8 - 3 Ultaarsonic sensors with Timers 
+
+- front , left and right distances are calculated
+- displayed in virtual I/O terminal
+- Timers and Interrupt are used
+- PICSimLab simulation validation
