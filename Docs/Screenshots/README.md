@@ -59,9 +59,10 @@ PICSIM Lab validation --
 
 <img width="1920" height="1080" alt="Screenshot (1031)" src="https://github.com/user-attachments/assets/46f5de98-dba4-46e3-9739-06e6a248edf4" />
 
-## Day 9 - Implementing ev and adas fault parameters 
+## Day 9 - Implementing EV physics and adas together
 
-<img width="1920" height="1080" alt="Screenshot (1041)" src="https://github.com/user-attachments/assets/37005d3c-d611-4ea2-8ba5-dd7dd8753488" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4762f46f-1288-45b7-b4d7-2e9eaf9a313d" />
+
 
 
 
