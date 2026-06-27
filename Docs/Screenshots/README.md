@@ -63,6 +63,11 @@ PICSIM Lab validation --
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4762f46f-1288-45b7-b4d7-2e9eaf9a313d" />
 
+## Day 10 - Faults display 
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d940c09d-c5b4-472c-bb8c-8e0478268669" />
+
+
 
 
 
