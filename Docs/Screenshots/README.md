@@ -67,6 +67,11 @@ PICSIM Lab validation --
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d940c09d-c5b4-472c-bb8c-8e0478268669" />
 
+# Day 11 — UART Shell & Complete EV-ADAS System Integration
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/29905a84-0aa6-4ae2-ac3b-9600cddc5781" />
+
+
 
 
 
