@@ -66,8 +66,7 @@ Abhiram Kadarla
 - ev dashboard required parameters are calculated
 - speed ,torque ,range ,soc 
 
-
-## Current Progress 
+ 
 
 ### Day 8 - 3 Ultaarsonic sensors with Timers 
 
@@ -75,3 +74,49 @@ Abhiram Kadarla
 - displayed in virtual I/O terminal
 - Timers and Interrupt are used
 - PICSimLab simulation validation
+
+
+### Day 9 - EV Dashboard & ADAS Integration
+
+- Integrated EV dashboard parameters with ADAS logic
+- Real-time battery SOC monitoring
+- Motor temperature monitoring
+- Obstacle detection and warning generation
+- PICSimLab simulation validation
+
+
+
+### Day 10 - Fault Detection & Warning System
+
+- Implemented EV fault detection logic
+- Battery low warning
+- Motor over-temperature warning
+- Obstacle proximity warning
+- Fault code generation and UART transmission
+- Real-time warning monitoring
+
+
+
+### Day 11 - UART Communication
+
+- Optimized UART communication between STM32 and PC
+- Real-time transmission of EV dashboard parameters
+- Sensor data packet formatting
+- Reliable serial communication
+- Virtual terminal verification
+
+
+
+### Day 12 (Final) - Python Dashboard Integration
+
+- Developed Python-based real-time EV dashboard
+- STM32 and Python integration using UART
+- Live visualization of:
+  - Accelerator position
+  - Brake position
+  - Battery State of Charge (SOC)
+  - Motor temperature
+  - Ultrasonic obstacle distances
+  - EV fault codes
+- End-to-end EV Dashboard & ADAS system validation
+- Final project integration completed successfully
