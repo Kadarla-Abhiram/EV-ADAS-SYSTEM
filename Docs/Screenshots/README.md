@@ -94,6 +94,14 @@ Final Output in PYTHON DASHBOARD --
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/efd1a901-05f9-4ca4-a9f3-4138caabff65" />
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6800e0b5-16de-4236-a615-783ad4d79c6f" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bb0667e0-0bdd-4a73-bb09-b7f029cbf40c" />
+
+
+
+
+
 
 
 
