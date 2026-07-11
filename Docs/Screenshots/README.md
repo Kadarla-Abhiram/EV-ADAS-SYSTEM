@@ -71,6 +71,29 @@ PICSIM Lab validation --
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/29905a84-0aa6-4ae2-ac3b-9600cddc5781" />
 
+# DAY 12 -- FINAL PYTHON INTEGRATION AND OUTPUT 
+
+Output in PICSIMLAB I/O terminal--
+<img width="1920" height="1080" alt="Screenshot (1088)" src="https://github.com/user-attachments/assets/9dba8c5b-9aee-4857-9a35-dce32a840fcf" />
+
+CMD CONFIG:
+
+<img width="1920" height="1080" alt="Screenshot (1100)" src="https://github.com/user-attachments/assets/aaab6019-f615-4cf7-be2d-da6a0c7b6122" />
+
+
+Final Output in PYTHON DASHBOARD --
+
+<img width="1920" height="1080" alt="Screenshot (1093)" src="https://github.com/user-attachments/assets/52d4fee2-1442-413e-9061-f12e23ff2ddc" />
+<img width="1920" height="1080" alt="Screenshot (1094)" src="https://github.com/user-attachments/assets/5a157fba-dfbc-4380-948b-281385253811" />
+<img width="1920" height="1080" alt="Screenshot (1095)" src="https://github.com/user-attachments/assets/d98c584d-449e-4052-b89b-429a1c8610c1" />
+<img width="1920" height="1080" alt="Screenshot (1096)" src="https://github.com/user-attachments/assets/ff80ad2e-89bf-425f-8977-6a05727ad295" />
+<img width="1920" height="1080" alt="Screenshot (1099)" src="https://github.com/user-attachments/assets/15532ed4-149d-42c4-a095-0c7e14fe86f0" />
+
+
+
+
+
+
 
 
 
